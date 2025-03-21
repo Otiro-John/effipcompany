@@ -268,7 +268,7 @@ nav ul li a:hover {
 
 .footer{
     width: 100%;
-    height: 160px;
+    height: 180px;
     background: var(--text-color);
     display: flex;
     align-items: center;
@@ -397,6 +397,8 @@ nav ul li a:hover {
         border-radius: 8px;
 
     }
+    .contact .text p{
+        margin-left:20px;
     .footer {
         flex-direction: column;
         text-align: center;
