@@ -387,7 +387,7 @@ nav ul li a:hover {
         display:flex;
         flex-direction: column;
         flex-wrap:wrap;
-        width: 400px;
+        width: 100%;
         height: auto;
         gap: 20px;
     }
