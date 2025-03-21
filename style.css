@@ -387,7 +387,7 @@ nav ul li a:hover {
         display:flex;
         flex-direction: column;
         align-items: center;
-        width: max-content;
+        width: 400px;
         height: auto;
         gap: 20px;
     }
@@ -398,7 +398,7 @@ nav ul li a:hover {
 
     }
     .contact .text p{
-        margin-left:20px;
+        margin-left:0px;
     .footer {
         flex-direction: column;
         text-align: center;
